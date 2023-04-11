@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">LiMEzm</string>
+    <string name="contact_requests">Contact Requests</string>
+    <string name="contacts">Contacts</string>
+    <string name="lorem_ipsum">Lorem Ipsum im Som subnact i Ipsum lorem. Ipsum l in abro Lorem Ipsum il Som im.Lorem Ipsum im Som subnact i Ipsum lorem. Ipsum l in abro Lorem Ipsum il Som im.</string>
+    <string name="have_you_been_accepted_text">Hmm.. \n This space is empty \n Have you been accepted \nby the school?</string>
+    <string name="feed">Feed</string>
+    <string name="exit">Exit</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="home">Home</string>
+    <string name="my_kids">My Kids</string>
+    <string name="school">School</string>
+    <string name="enter_child_information">Enter Child Information</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="save">Save</string>
+    <string name="select_school">Select School</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="phone_number">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_your_details">Enter your details</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="re_password">Re Enter Password</string>
+    <string name="guardian">Guardian</string>
+    <string name="teacher">Teacher</string>
+    <string name="admin">Admin</string>
+    <string name="my_class">My Class</string>
+    <string name="student_name">Student: Name</string>
+    <string name="_2022_second_term">2022 Second Term</string>
+    <string name="view_report_card">View Report Card</string>
+    <string name="classes">Classes</string>
+    <string name="approvals">Approvals</string>
+    <string name="positions">Positions</string>
+    <string name="create_school">Create School</string>
+    <string name="school_name">School Name</string>
+    <string name="you_have_no_notifications">You have no notifications</string>
+    <string name="teacher_name">Teacher Name</string>
+    <string name="change">Change</string>
+    <string name="change_teacher">Change Teacher</string>
+    <string name="exam_number">Exam Number</string>
+    <string name="term_name">Term Name</string>
+    <string name="marks">Marks</string>
+    <string name="child_name">Child Name</string>
+    <string name="phone">Phone</string>
+    <string name="send_email">Send Email</string>
+    <string name="email_address">Email Address</string>
+
+    <array name="privacy_level">
+        <item>Contacts</item>
+        <item>Teachers</item>
+        <item>Only Me</item>
+    </array>
+    <array name="grades">
+        <item>Select Grade</item>
+        <item>Grade 1</item>
+        <item>Grade 2</item>
+        <item>Grade 3</item>
+        <item>Grade 4</item>
+        <item>Grade 5</item>
+        <item>Grade 6</item>
+        <item>Grade 7</item>
+        <item>Grade 8</item>
+        <item>Grade 9</item>
+        <item>Grade 10</item>
+        <item>Grade 11</item>
+        <item>Grade 12</item>
+        <item>Baby Class</item>
+        <item>Middle Class</item>
+        <item>Big Class</item>
+    </array>
+</resources>

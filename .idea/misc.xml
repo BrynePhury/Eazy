@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/drawable/background_button_round.xml" value="0.2125" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/drawable/bottom_nav_selected.xml" value="0.1" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.2125" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/drawable/bottom_navigation_sector.xml" value="0.253" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/drawable/comment_bg.xml" value="0.1745" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/drawable/draw.xml" value="0.1815" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/drawable/ic_menu.xml" value="0.1655" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/drawable/ic_pen.xml" value="0.1585" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/font/.xml" value="0.17314814814814813" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_add_child.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_add_report_card.xml" value="0.31851851851851853" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_approvals.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_classes.xml" value="0.3528205128205128" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_comments.xml" value="0.33" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.31851851851851853" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_home.xml" value="0.3509259259259259" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_kids_profile.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_kids_search.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_log_in.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_main.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_my_class.xml" value="0.33" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_my_kids.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_new_report_card.xml" value="0.31851851851851853" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_photo_view.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_player.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_positions.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_profile.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_ratings.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_school.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_search.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_sign_up.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_upload.xml" value="0.3572916666666667" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/activity_verify_email.xml" value="0.33" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/add_class_dialog.xml" value="0.33" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/add_position_dialog.xml" value="0.31851851851851853" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/change_name_dialog.xml" value="0.31851851851851853" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/create_school_dialog.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/custom_controller.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/dialog_class_spinner.xml" value="0.32222222222222224" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/dialog_school_spinner.xml" value="0.26875" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/dialog_teacher_spinner.xml" value="0.31851851851851853" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/fragment_contacts.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/fragment_news_feed.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/fragment_notifications.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/fragment_profile.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/item_child.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/item_child_rating.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/item_class.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/item_comment.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/item_contacts.xml" value="0.33" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/item_position.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/item_post.xml" value="0.33" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/item_report_card.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/item_search_list.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/main_nav_drawer.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/notification_layout.xml" value="0.33" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/radd.xml" value="0.33" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/rand.xml" value="0.33" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/second_nav_drawer.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/layout/set_number_dialog.xml" value="0.33" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/menu/bottom_navigation_main.xml" value="0.35833333333333334" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/menu/search_view.xml" value="0.26875" />
+        <entry key="..\:/Programming Room/LiMEApp/app/src/main/res/xml/network_security_config.xml" value="0.31851851851851853" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
